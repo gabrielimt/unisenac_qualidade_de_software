@@ -14,9 +14,10 @@ Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade 
 
 ## 📦 Entregas
 As entregas parciais e finais estão organizadas por atividade na pasta `docs/`.
-- Análise de qualidade de software (ISO 25000).
-- Adiciona relatório de diagnóstico de QA
-- Adiciona estratégia de testes
+- Análise de qualidade de software;
+- Adiciona relatório de diagnóstico de QA;
+- Adiciona estratégia de testes;
+- Adiciona planejamento de testes caixa-preta e caixa-branca
 
 ## 🧩 Metodologia
 Aprendizagem Baseada em Problemas (PBL), com foco no desenvolvimento de competências em qualidade de software.
